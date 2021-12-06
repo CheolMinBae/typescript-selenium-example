@@ -11,14 +11,6 @@
   "author": "Guilherme Oenning",
   "license": "ISC",
   "devDependencies": {
-    "@types/mocha": "^2.2.41",
-    "@types/node": "^8.0.6",
-    "@types/selenium-webdriver": "^3.0.4",
-    "chromedriver": "^2.30.1",
-    "mocha": "^3.4.2",
-    "reflect-metadata": "^0.1.10",
-    "selenium-webdriver": "^3.4.0",
-    "tslint": "^5.4.3",
-    "typescript": "^2.4.1"
+	"chromedriver": "^96.0.0"
   }
 }
